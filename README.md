@@ -1,6 +1,3 @@
-# Learning Projects
-
-This is a repository of my learning projects.
 ## Models From scratch:
 - Neural Networks from scratch 
 
